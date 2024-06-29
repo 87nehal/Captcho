@@ -1,4 +1,4 @@
-![Homepage Placeholder](https://raw.githubusercontent.com/2105789/Captcho/main/public/SS/Screenshot.png)
+![Homepage Placeholder](https://raw.githubusercontent.com/87nehal/Captcho/main/public/SS/Screenshot.png)
 # Secure Captcha Implementation with Nuxt.js and Server-Side Validation
 
 This project demonstrates a secure captcha implementation using Nuxt.js, focusing on server-side validation to enhance security.
